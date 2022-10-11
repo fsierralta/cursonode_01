@@ -1,0 +1,16 @@
+{
+  "name": "04-basesnode",
+  "version": "0.0.1",
+  "description": "Calculadora simple ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node app"
+  },
+  "author": "Freddy sierralta",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
